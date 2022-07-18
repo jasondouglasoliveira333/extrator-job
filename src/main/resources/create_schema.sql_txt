@@ -1,0 +1,19 @@
+ drop table if exists mail_configuration CASCADE;
+ drop table if exists mail_info CASCADE;
+ drop table if exists mail_outlook_info CASCADE;
+ drop table if exists sap_configuration CASCADE;
+ drop table if exists corporation CASCADE;
+ drop table if exists parameter CASCADE;
+ 
+ drop sequence if exists hibernate_sequence;
+ create sequence hibernate_sequence start with 1 increment by 1;
+ create table mail_configuration (id integer not null, mail_configuration_type varchar(255), user_id integer, primary key (id));
+ create table mail_info (id integer not null, host varchar(255), password varchar(255), port integer, protocol varchar(255), username varchar(255), mail_configuration_id integer, primary key (id));
+ create table mail_outlook_info (id integer not null, access_token VARCHAR(4000), expiration timestamp, refresh_token VARCHAR(2000), email varchar(50), mail_configuration_id integer, primary key (id));
+ create table sap_configuration (id integer not null, client varchar(255), destination_name varchar(255), directory varchar(255), entry_sap varchar(255), host varchar(255), lang varchar(255), passwd varchar(255), sysnr varchar(255), username varchar(255), user_id integer, primary key (id));
+ create table corporation (id integer not null, cnpj varchar(255), name varchar(255), password varchar(255), primary key (id));
+ create table parameter(id integer not null, name varchar(50), value varchar(50), primary key(id))
+ alter table mail_configuration add constraint FKfofy5tyl5o94p6janmw0fu0ty foreign key (user_id) references user;
+ alter table mail_info add constraint FK14es9x10tqm59o58un8n78o3d foreign key (mail_configuration_id) references mail_configuration;
+ alter table mail_outlook_info add constraint FKme1dlf2pe6o1rli0udvtmoqs2 foreign key (mail_configuration_id) references mail_configuration;
+ alter table sap_configuration add constraint FK2tquekk3s0c9a0vtdoi2mbsel foreign key (user_id) references user;

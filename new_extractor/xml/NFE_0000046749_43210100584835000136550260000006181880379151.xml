@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe43210100584835000136550260000003191880379151" versao="4.00">
+            <ide>
+                <cUF>43</cUF>
+                <cNF>88037915</cNF>
+                <natOp>CAMPO PLACA DO VEICULO ID</natOp>
+                <indPag>0</indPag>
+                <mod>55</mod>
+                <serie>26</serie>
+                <nNF>319</nNF>
+                <dhEmi>2021-01-21T10:00:00+00:00</dhEmi>
+                <dhSaiEnt>2021-01-21T12:00:00+00:00</dhSaiEnt>
+                <tpNF>1</tpNF>
+                <idDest>2</idDest>
+                <cMunFG>4314902</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>0</cDV>
+                <tpAmb>2</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>0</indFinal>
+                <indPres>0</indPres>
+                <procEmi>3</procEmi>
+                <verProc>4.00.31</verProc>
+            </ide>
+            <emit>
+                <CNPJ>62258884000136</CNPJ>
+                <xNome>DEMONSTRACAO LKM TECNOLOGIA LTDA</xNome>
+                <xFant>LKM TECNOLOGIA</xFant>
+                <enderEmit>
+                    <xLgr>RODOVIA PRESIDENTE DUTRA KM224,82</xLgr>
+                    <nro>S/N</nro>
+                    <xBairro>VILA AUGUSTA</xBairro>
+                    <cMun>4314902</cMun>
+                    <xMun>Porto Alegre</xMun>
+                    <UF>RS</UF>
+                    <CEP>07034010</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                </enderEmit>
+                <IE>0018000460</IE>
+                <CRT>3</CRT>
+            </emit>
+            <dest>
+                <CNPJ>00584835000136</CNPJ>
+                <xNome>NF-E EMITIDA EM AMBIENTE DE HOMOLOGACAO - SEM VALOR FISCAL</xNome>
+                <enderDest>
+                    <xLgr>RUA SEBASTIAO F C PENTEADO</xLgr>
+                    <nro>571</nro>
+                    <xBairro>CENTRO</xBairro>
+                    <cMun>3502705</cMun>
+                    <xMun>Apiai</xMun>
+                    <UF>SP</UF>
+                    <CEP>18320000</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                </enderDest>
+                <indIEDest>1</indIEDest>
+                <IE>108099911110</IE>
+            </dest>
+            <det nItem="1">
+                <prod>
+                    <cProd>5021356</cProd>
+                    <cEAN />
+                    <xProd>USO E CONSUMO</xProd>
+                    <NCM>01011010</NCM>
+                    <CFOP>6101</CFOP>
+                    <uCom>EA</uCom>
+                    <qCom>10.0000</qCom>
+                    <vUnCom>38636.364</vUnCom>
+                    <vProd>386363.64</vProd>
+                    <cEANTrib />
+                    <uTrib>UN</uTrib>
+                    <qTrib>10.0000</qTrib>
+                    <vUnTrib>38636.364</vUnTrib>
+                    <indTot>1</indTot>
+                    <xPed>4500003407</xPed>
+                    <nItemPed>10</nItemPed>
+                    <rastro>
+                        <nLote>1620215</nLote>
+                        <qLote>1.000</qLote>
+                        <dFab>2020-08-03</dFab>
+                        <dVal>2021-03-31</dVal>
+                        <cAgreg>1001</cAgreg>
+                    </rastro>
+                    <rastro>
+                        <nLote>1620215</nLote>
+                        <qLote>1.000</qLote>
+                        <dFab>2020-08-03</dFab>
+                        <dVal>2021-03-31</dVal>
+                        <cAgreg>1002</cAgreg>
+                    </rastro>
+                    <rastro>
+                        <nLote>1620215</nLote>
+                        <qLote>1.000</qLote>
+                        <dFab>2020-08-03</dFab>
+                        <dVal>2021-03-31</dVal>
+                        <cAgreg>1003</cAgreg>
+                    </rastro>
+                    <rastro>
+                        <nLote>1620198</nLote>
+                        <qLote>1.000</qLote>
+                        <dFab>2020-07-17</dFab>
+                        <dVal>2021-03-14</dVal>
+                        <cAgreg>1004</cAgreg>
+                    </rastro>
+                    <rastro>
+                        <nLote>1620198</nLote>
+                        <qLote>1.000</qLote>
+                        <dFab>2020-07-17</dFab>
+                        <dVal>2021-03-14</dVal>
+                        <cAgreg>1005</cAgreg>
+                    </rastro>
+                    <rastro>
+                        <nLote>1620198</nLote>
+                        <qLote>1.000</qLote>
+                        <dFab>2020-07-17</dFab>
+                        <dVal>2021-03-14</dVal>
+                        <cAgreg>1006</cAgreg>
+                    </rastro>
+                    <rastro>
+                        <nLote>1620198</nLote>
+                        <qLote>1.000</qLote>
+                        <dFab>2020-07-17</dFab>
+                        <dVal>2021-03-14</dVal>
+                        <cAgreg>1007</cAgreg>
+                    </rastro>
+                    <rastro>
+                        <nLote>1620198</nLote>
+                        <qLote>1.000</qLote>
+                        <dFab>2020-07-17</dFab>
+                        <dVal>2021-03-14</dVal>
+                        <cAgreg>1008</cAgreg>
+                    </rastro>
+                    <rastro>
+                        <nLote>1620198</nLote>
+                        <qLote>1.000</qLote>
+                        <dFab>2020-07-17</dFab>
+                        <dVal>2021-03-14</dVal>
+                        <cAgreg>1009</cAgreg>
+                    </rastro>
+                    <rastro>
+                        <nLote>1620198</nLote>
+                        <qLote>1.000</qLote>
+                        <dFab>2020-07-17</dFab>
+                        <dVal>2021-03-14</dVal>
+                        <cAgreg>1010</cAgreg>
+                    </rastro>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS00>
+                            <orig>0</orig>
+                            <CST>00</CST>
+                            <modBC>3</modBC>
+                            <vBC>386363.64</vBC>
+                            <pICMS>12.0000</pICMS>
+                            <vICMS>46363.64</vICMS>
+                        </ICMS00>
+                    </ICMS>
+                    <IPI>
+                        <clEnq>888</clEnq>
+                        <cEnq>10</cEnq>
+                        <IPITrib>
+                            <CST>00</CST>
+                            <vBC>386363.64</vBC>
+                            <pIPI>8.0000</pIPI>
+                            <vIPI>30909.09</vIPI>
+                        </IPITrib>
+                    </IPI>
+                    <PIS>
+                        <PISAliq>
+                            <CST>01</CST>
+                            <vBC>386363.64</vBC>
+                            <pPIS>1.6500</pPIS>
+                            <vPIS>6375.00</vPIS>
+                        </PISAliq>
+                    </PIS>
+                    <COFINS>
+                        <COFINSAliq>
+                            <CST>01</CST>
+                            <vBC>386363.64</vBC>
+                            <pCOFINS>7.6000</pCOFINS>
+                            <vCOFINS>29363.64</vCOFINS>
+                        </COFINSAliq>
+                    </COFINS>
+                </imposto>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>386363.64</vBC>
+                    <vICMS>46363.64</vICMS>
+                    <vICMSDeson>0.00</vICMSDeson>
+                    <vBCST>0.00</vBCST>
+                    <vST>0.00</vST>
+                    <vProd>386363.64</vProd>
+                    <vFrete>0.00</vFrete>
+                    <vSeg>0.00</vSeg>
+                    <vDesc>0.00</vDesc>
+                    <vII>0.00</vII>
+                    <vIPI>30909.09</vIPI>
+                    <vPIS>6375.00</vPIS>
+                    <vCOFINS>29363.64</vCOFINS>
+                    <vOutro>0.00</vOutro>
+                    <vNF>417272.73</vNF>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>0</modFrete>
+                <veicTransp>
+                    <placa>XXX1234</placa>
+                    <UF>RS</UF>
+                    <RNTC>12345678</RNTC>
+                </veicTransp>
+            </transp>
+        </infNFe>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+                <Reference URI="#NFe43210100584835000136550260000003191880379151">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                    <DigestValue>Pyne52KUdPX28p6LZ/FHqAXmhsc=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>xS/HWvZK+uy2kHhribxX48YNouEVml6hptM6aR5dA6MxuLjEQmW0+TtEQzQuGl7VGEOPlrloGv3ze1qqryDojlb5cNz+Y8vTG//757RfqXkl4Np5yJbcsLOQryaCwv6o/Dk29hiM5TwN3Rsfgx/btniAVPhm139Xug2/sM1wxgTgnl7eHiqa4obkHUZm5hHPL8xby7oHa4RDtjhuCkztqHFuCJIIE30oqY/XB6pWuuoQX2UsTCwZ41Ql6IiNk2bPJhVmJPs2vZ5i5BfS+U1onaw8lvyFxgyp3yWh4IZtPTZ6Rimte3ZVFkXADf+jZoSz7C3INF1Lv9eWXqdrOHL6Sg==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>MIIHbjCCBVagAwIBAgIDFI4pMA0GCSqGSIb3DQEBCwUAMIGJMQswCQYDVQQGEwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBkYSBSZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMS0wKwYDVQQDEyRBdXRvcmlkYWRlIENlcnRpZmljYWRvcmEgU0VSUFJPUkZCdjQwHhcNMTQxMjA5MTkyODAzWhcNMTUxMjA5MTkyODAzWjCB1TELMAkGA1UEBhMCQlIxCzAJBgNVBAgTAlNQMRIwEAYDVQQHEwlTQU8gUEFVTE8xEzARBgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFsIGRvIEJyYXNpbCAtIFJGQjETMBEGA1UECxMKQVJDT1JSRUlPUzEWMBQGA1UECxMNUkZCIGUtQ05QSiBBMTErMCkGA1UEAxMiTEtNIFRFQ05PTE9HSUEgTFREQTowMDU4NDgzNTAwMDEzNjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANMlLgcqCKbnkV0IxnM4Ly4UVq6g2MExcUMXyBhqpT56C3HkykOw38t0naHJiJKNeARJ5j3u257UHs9zkmym8BPEad+y0DdEM4TBwjr9o7Kwt5yMGuBx+zryCV0LqiX314dD//t26axUrxa9RQFhp3cb/RR505uBUkxEZbEVdTqglCCwzUxF8ANWgxnbOf3ubTH7oFpfqI1WfED1vpc+kvjRjjpjltd81Ld33OkvQYhHlMbyESdooTZdMoBc20HymVZPcQNp784EZXnMF3m4UdDn9RbiC3PosLuFw+X28orRI3gVrKbXG0NSVD65/TST1ASzQ1EcyvhjEy9F9hfw7jcCAwEAAaOCAo8wggKLMB8GA1UdIwQYMBaAFDAKLAy4Nyvg9toC/oCCZ5aYVBk7MA4GA1UdDwEB/wQEAwIF4DBbBgNVHSAEVDBSMFAGBmBMAQIBCjBGMEQGCCsGAQUFBwIBFjhodHRwOi8vcmVwb3NpdG9yaW8uc2VycHJvLmdvdi5ici9kb2NzL2RwY2Fjc2VycHJvcmZiLnBkZjCB0QYDVR0fBIHJMIHGMDygOqA4hjZodHRwOi8vcmVwb3NpdG9yaW8uc2VycHJvLmdvdi5ici9sY3IvYWNzZXJwcm9yZmJ2NC5jcmwwPqA8oDqGOGh0dHA6Ly9jZXJ0aWZpY2Fkb3MyLnNlcnByby5nb3YuYnIvbGNyL2Fjc2VycHJvcmZidjQuY3JsMEagRKBChkBodHRwOi8vcmVwb3NpdG9yaW8uaWNwYnJhc2lsLmdvdi5ici9sY3Ivc2VycHJvL2Fjc2VycHJvcmZidjQuY3JsMFYGCCsGAQUFBwEBBEowSDBGBggrBgEFBQcwAoY6aHR0cDovL3JlcG9zaXRvcmlvLnNlcnByby5nb3YuYnIvY2FkZWlhcy9hY3NlcnByb3JmYnY0LnA3YjCBrwYDVR0RBIGnMIGkoDgGBWBMAQMEoC8ELTA0MDMxOTU1NzYwNDA3NzE4ODcwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMKAaBgVgTAEDAqARBA9MQVVSTyBLSVNISU1PVE+gGQYFYEwBAwOgEAQOMDA1ODQ4MzUwMDAxMzagFwYFYEwBAwegDgQMMDAwMDAwMDAwMDAwgRhtYXVyaWNpb19sZWFsQGxrbS5jb20uYnIwHQYDVR0lBBYwFAYIKwYBBQUHAwQGCCsGAQUFBwMCMA0GCSqGSIb3DQEBCwUAA4ICAQAhyfCOovdd6WaMcV8dkLMG24ofpXCu1ZdorciRnGdRRJf1/e5HotiB0lAXIBSkHaHoRzBrdJtDncpp3Kf+vjf/KyTjbgUdJQYQHaAJoLPTQXbOQIQHCAYToGJBDS56H/2+bSzgtRj9QjqIB+4a4TsvZ4oGeungYfP4gdjoWfJUYj5BSv7/TxPrriPYoJi3kLz3yOB/i46qrxPLwCUJvbZd0qAtI0OXs42fZJNhcjzTgQrDJdmPjtyEwKJBDwxVzXHQNR4cz0I8BoBn5Mqgwjs4Pvd/hFv+Y85a0RdZ0MfyveCB6AZbI3jcL6zIJDreMnJOP7G0czC+TYtpe4xR/uTQDs6ex44eUFwbXB2B8/vF11VFzjR96sYLA13OpJ68oSoOgnuE2aZe7qeeT423cxB4/BHTvAAGUuzZ43SyUrS9me2oWqOP4lR/w3fQN5t3DMyywjiCgmzLshJYEf/0ia+1d0VaW5lBHsVzBnlnTEwzXFd77FMe9tUQL7e8XwXXN/CR9Sc6oLuo8tdOCdYAVmrIRwY/v8peS2gsHFXXIFDC1nYTQRfYvVddEayXDVortrdGXbwlpUOTyYUmr81PU4dVxz/Bryaq8OYjX+jizRreuaMT8JvpmWNyKafUz6zBK+4uCXAac6STagLmX3+VqjX3B2gs6PCGMJs8dHsRci/EoQ==</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </NFe>
+    <protNFe versao="4.00">
+        <infProt>
+            <tpAmb>2</tpAmb>
+            <verAplic>RS201501141709</verAplic>
+            <chNFe>43210100584835000136550260000003191880379151</chNFe>
+            <dhRecbto>2015-01-26T09:00:50-02:00</dhRecbto>
+            <nProt>143150000139069</nProt>
+            <digVal>Pyne52KUdPX28p6LZ/FHqAXmhsc=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso da NF-e</xMotivo>
+        </infProt>
+    </protNFe>
+</nfeProc>
